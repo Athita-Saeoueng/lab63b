@@ -14,6 +14,7 @@
 ## ศึกษาข้อมูลเบื้องต้น
 - [02 run example 2](https://www.youtube.com/watch?v=yBjab0UNuB8&ab_channel=TANI-IOT)
 - [code](https://i.imgur.com/xlr9bV8.png)
+- [Platform io](https://platformio.org/platformio-ide)
 
 ## วิธีทำการทดลอง
 1. ต่อสาย USB เข้ากับ serial port
