@@ -21,15 +21,15 @@
 3. พิมพ์ `pio run -t upload`
 ![image](https://i.imgur.com/2yvJNbs.png)
 4. กดปุ่มสีดำค้างแล้วกดปุ่มสีแดง reset เพื่อให้โปรแกรมอัปโหลดลงไมโครคอนโทรเลอร์
-[image](https://i.imgur.com/x0zmziD.png)
+![image](https://i.imgur.com/x0zmziD.png)
 5. รอโปรแกรมอัปโหลดจนเสร็จ
-[image](https://i.imgur.com/uYVt0hv.png)
+![image](https://i.imgur.com/uYVt0hv.png)
 6. ไปที่คำสั่ง `pio device monitor` เพื่อสแกนหาไวไฟรอบๆตัว
-[image](https://i.imgur.com/sxxWVMR.png)
+![image](https://i.imgur.com/sxxWVMR.png)
 7. ค้นหาเจอไวไฟตามสัญญาณความแรงที่ส่งออกมา
-[image](https://i.imgur.com/yr8EcMd.png)
+![image](https://i.imgur.com/yr8EcMd.png)
 8. ลองกดปุ่มสีแดงเพื่อ reset โปรแกรมก็จะทำงานใหม่
-[image](https://i.imgur.com/JltoTDl.png)
+![image](https://i.imgur.com/JltoTDl.png)
 
 ## การบันทึกผลการทดลอง
 โปรแกรมจะสามารถค้นหาไวไฟได้จากความแรงของสัญญาณ
